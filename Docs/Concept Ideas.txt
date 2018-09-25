@@ -1,0 +1,11 @@
+
+
+Enemies
+
+	- Enemy Array
+		- Enemy
+			- Stats
+			- Object
+			
+			
+http://jasonleeelliott.com/using-json-data/

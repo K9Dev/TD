@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0bd1a4b6-f822-42bb-9359-139d25b57828",
+            "Value": {
+                "id": "523b0f56-23e7-4eb5-bdb8-e1edb1a05a66",
+                "resourcePath": "objects\\objEnemies\\objEnemies.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0cf6d737-519a-4995-8a78-f1eed2fea2db",
             "Value": {
                 "id": "7699efa0-e2fc-4632-b967-2e7c43955aeb",
@@ -52,6 +60,14 @@
                 "id": "776bcc1a-56e6-49ca-8d9c-b8e316734648",
                 "resourcePath": "objects\\objEnemySpawn\\objEnemySpawn.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1eb8d0e2-d639-483b-8874-95fcfd3ee785",
+            "Value": {
+                "id": "cda0700a-fe4e-456f-9bd9-4aa31cf8f1ed",
+                "resourcePath": "views\\1eb8d0e2-d639-483b-8874-95fcfd3ee785.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -308,6 +324,14 @@
                 "id": "a7f88aca-0468-4b4e-b266-8bf6334a4e6a",
                 "resourcePath": "sprites\\sprTowerSnipe\\sprTowerSnipe.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b95e3dff-d069-4126-ac38-48792ea4a48a",
+            "Value": {
+                "id": "d18c3f60-0553-4c64-842a-4bdafd81bce3",
+                "resourcePath": "views\\b95e3dff-d069-4126-ac38-48792ea4a48a.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
