@@ -1,5 +1,12 @@
 /// @description
 
-path_start(0, global.spd, 0, true);
+// Get own sprite as ID, to get values from config
 
-hp = global.hp;
+ID = -1;
+NAME = "default";
+RARITY= "default";
+DEF = -1;
+SPD = -1;
+HP = 0;
+COINS = 0;
+

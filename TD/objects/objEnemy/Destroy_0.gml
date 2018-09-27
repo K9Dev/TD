@@ -1,3 +1,3 @@
 /// @description
 
-global.coins += 20;
+global.coins += COINS;

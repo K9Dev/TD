@@ -1,5 +1,5 @@
 /// @description 
 
-if(hp <= 0){
+if(HP <= 0){
 	instance_destroy();
 }

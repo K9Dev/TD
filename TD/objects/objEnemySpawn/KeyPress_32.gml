@@ -1,3 +1,4 @@
+spawning = true;
 
 // Every sec
 alarm[0] = 1;

@@ -7,7 +7,7 @@ if(scrMouseOver(x, y, sprite_width, sprite_height)){
 }
 
 
-var enemy = instance_nearest(x, y, objEnemy);
+var enemy = instance_nearest(x, y, objEnemies);
 
 if(enemy != noone){
 	if(point_distance(x, y, enemy.x, enemy.y) <= range){

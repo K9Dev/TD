@@ -1,6 +1,6 @@
 /// @description
 
-hp -= 20;
+HP -= 20;
 
 with(other){
 	instance_destroy();

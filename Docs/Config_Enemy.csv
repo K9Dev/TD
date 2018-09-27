@@ -1,0 +1,3 @@
+﻿ID;NAME;RARITY;DEF;SPD;HP;SPRITE;COINS
+1;Violet;Common;3;5;100;sprEnemyViolet;20
+2;Blue;Common;7;3;160;sprEnemyBlue;30

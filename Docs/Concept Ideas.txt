@@ -9,3 +9,63 @@ Enemies
 			
 			
 http://jasonleeelliott.com/using-json-data/
+
+=============================================
+
+Nice ideas TD
+
+======================
+
+[–]MountSwolmore 7 points 4 years ago* 
+
+--I started with one idea, but they just kept coming... this isn't one coherent idea, but several potential interchangeable ones.--
+
+The biggest problem I always seem to run across is there usually being a single best way to do things. 
+There's almost always a tower that's the best or a one size fits all.
+You start out with the cheap 'normal' tower, as the towers increase in price, they become objectively better. 
+If you can put down the $500 rocket tower that kills everything in one shot, you don't really need the machine gun,
+laser, slow, ice, poison, or whatever towers. The game just turns into a screen full of rockets. 
+In games where you play until you lose, there just ends up being a map full of the same 1-2 towers and 
+losing is simply a result of maxing the towers and running out of room.
+
+I think a good design point would be to have all the towers start at the same level. 
+$10 fire/ice/poison/earth or rocket/laser/machine gun or whatever scheme is chosen. 
+They're all of relatively equal but not identical. You can then upgrade multiple facets of 
+each tower to suit the level, monsters, and your play style. Attack speed, range, projectile speed, 
+projectile count, damage, effects, effect magnitude, effect duration, etc.
+
+There's an android TD game called Elements Defense or something close to that where as you kill monsters, 
+they drop gems and then you use the gems in combinations of 3 to make 9 different possible towers. 
+I thought that was a cool mechanic. Maybe there could be something like monsters that have rocket launchers 
+on their back, and when you kill them, they have a chance to drop that and you can mount it on a tower. 
+There's a could of different ways to do this.
+
+Combine X weapons- rocket, rocket, rocket gets you a nuke that's slow, but with massive damage. 
+Rocket, rocket, machine gun gets you a howitzer that's long range, fast explosive projectile, but slow reload. 
+Machine gun, machine gun, rocket gets you a 50 cal assault cannon with explosive rounds. Rocket, machine gun, 
+laser is a high attack rate, seeking, explosive weapon. Laser, laser, laser is a constant damage type weapon 
+that does more damage the longer it fires; good for armor. Laser, laser, machine gun is a laser pulse rifle 
+good for lots of fast, small targets. So on and so on...
+
+Alternatively, have multiple categories that can be dropped/purchased/made/found. Weapon: rocket, machine gun, laser. 
+Targeting system: long range, multi target, homing. Ammo depot: elemental/effect rounds (burning, freezing, stun, knockback, piercing, etc), 
+Extra ammo (more shots without reloading), fast reload. Utility: more range, borrow range of neighbor towers, more resource per kill, 
+enemies killed drop more components, more experience so tower levels faster. Rocket + Multiple rounds + burning = massive carpet bomb AOE+DOT. 
+Machine gun + knockback + long range = sniper rifle. Laser + homing + pierce = a laser that bounces between X amount of enemies.
+
+Yet another option- remove the "make a match" type system. You just build a tower with X mount points and add components to it in any order at any time. 
+Just put on one rocket and it's a boring rocket launcher. Put on 10 rockets and it's a massive rocket battery. Put on 9 rockets and a targeting computer 
+and it makes a rocket swarm that tracks targets. 8 rockets and two targeting computers makes a smaller swarm, but they track farther and faster
+ and any 'overkill' rockets acquire new targets. Like modules will have combined effectiveness bonuses while different modules will have synergy bonuses. 
+ You can upgrade the individual modules on the tower or just upgrade the tower itself to either make all modules more effective or raise the maximum number of modules allowed.
+
+Only have one base tower type that's infinitely upgradeable. Upgrade attack speed 5 times and it's a machine gun. Upgrade it 100 times and it's a laser. 
+Upgrade damage 5 times and it tickles enemies with pellets. Upgrade damage 100 times and it shoots massive slugs that bulldoze enemies. Upgrade range to 100 
+and you have a sniper tower. Upgrade piercing to 5 and it goes through an enemy 20% of the time. Upgrade piercing to 100 and it plows through 5 enemies in a row. 
+Every tower becomes whatever you upgrade it to be.
+
+This one is a different idea... ONE tower that attacks. It shoots a single laser beam in a static direction. You can upgrade the tower to do more damage or 
+shoot more lasers (one in every direction, 4 or 8 max depending how you count directions). You then build different mirrors to bounce the laser around the map with different results. 
+A boring mirror will just bend the laser around a corner. A splitter will, duh, split the beam, but lower damage. A prism will result in a rainbow AOE shotgun. 
+A convex lens will focus the beam doing more damage and extending range. A coupler will combine beams to increase damage. 
+An optical capacitor will store the beam for intense bursts.

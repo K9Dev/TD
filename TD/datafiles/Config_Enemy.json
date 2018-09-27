@@ -1,0 +1,22 @@
+[
+ {
+   "ID": 1,
+   "NAME": "Violet",
+   "RARITY": "Common",
+   "DEF": 3,
+   "SPD": 2.5,
+   "HP": 100,
+   "SPRITE": "sprEnemyViolet",
+   "COINS": 20
+ },
+ {
+   "ID": 2,
+   "NAME": "Blue",
+   "RARITY": "Common",
+   "DEF": 7,
+   "SPD": 1,
+   "HP": 160,
+   "SPRITE": "sprEnemyBlue",
+   "COINS": 50
+ }
+]

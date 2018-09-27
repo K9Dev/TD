@@ -2,7 +2,7 @@
     "id": "549492bd-9fe6-41b8-bb4e-6a9d452c3a59",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprEnemy",
+    "name": "sprEnemyViolet",
     "For3D": false,
     "HTile": false,
     "VTile": false,
