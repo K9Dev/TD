@@ -6,6 +6,8 @@ if(spawnCount < spawnAmount){
 	
 	with(enemy){
 		path_start(0, SPD, 0, true);
+		origSpeed = path_speed;
+		log("OrigSpeed = " + string(origSpeed));
 	}
 	
 	spawnCount++;

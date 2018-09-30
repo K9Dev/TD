@@ -50,7 +50,7 @@
             "Key": "0cf6d737-519a-4995-8a78-f1eed2fea2db",
             "Value": {
                 "id": "7699efa0-e2fc-4632-b967-2e7c43955aeb",
-                "resourcePath": "objects\\objTowerBasic\\objTowerBasic.yy",
+                "resourcePath": "objects\\objTowerFlare\\objTowerFlare.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -90,7 +90,7 @@
             "Key": "213dec1b-4b87-476d-8228-0eaeda93aa26",
             "Value": {
                 "id": "029d9c58-4a66-4ce8-9551-4d2964931677",
-                "resourcePath": "sprites\\sprTowerPoison\\sprTowerPoison.yy",
+                "resourcePath": "sprites\\sprTowerVenom\\sprTowerVenom.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "2bcfd7a4-2e19-4ef2-9b4c-ccea9f39bb5e",
+            "Value": {
+                "id": "5f3b5bc0-31ce-4af1-9b0f-008d2dfb6337",
+                "resourcePath": "objects\\objTowerClickGlacier\\objTowerClickGlacier.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "351c9886-4224-46dc-bf8c-c612728dbb74",
             "Value": {
                 "id": "1cdc7553-e00c-4b86-ac77-ca8fffd9c901",
@@ -124,6 +132,14 @@
                 "id": "267cd095-73c4-4eb2-b01f-5376b378e7f5",
                 "resourcePath": "sprites\\sprTiles\\sprTiles.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "384591f8-112c-4147-9b4b-5f25e57c1cc1",
+            "Value": {
+                "id": "523caf36-4180-4157-90e7-9d4f3bed07e5",
+                "resourcePath": "objects\\objTowerGlacier\\objTowerGlacier.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -156,6 +172,14 @@
                 "id": "6dc24efc-bc5a-44af-827b-eb3f86e5eaa3",
                 "resourcePath": "scripts\\scrIncreaseEnemyStats\\scrIncreaseEnemyStats.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4fae831e-7f38-4eaf-9209-44062827bbad",
+            "Value": {
+                "id": "af6e3fdf-d004-4c6b-94a4-ec38257078c4",
+                "resourcePath": "objects\\objTowerVenomProjectile\\objTowerVenomProjectile.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -194,7 +218,7 @@
             "Key": "53fde276-10f3-42da-8fa0-393e2991e0e6",
             "Value": {
                 "id": "66a01b35-6c24-457b-8146-42a4bd3c5996",
-                "resourcePath": "objects\\objTowerBasicProjectile\\objTowerBasicProjectile.yy",
+                "resourcePath": "objects\\objTowerFlareProjectile\\objTowerFlareProjectile.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -247,6 +271,14 @@
             }
         },
         {
+            "Key": "6dc62070-a7c6-4d59-a79c-1d2503c13031",
+            "Value": {
+                "id": "9f7d3862-a351-49c4-857f-95b08b7e179d",
+                "resourcePath": "sprites\\sprTowerGlacierProjectile\\sprTowerGlacierProjectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fe76d33-077b-47a4-95ee-70b0f634d99b",
             "Value": {
                 "id": "7841a719-1cab-4c4f-87ee-5dad40a4667c",
@@ -279,6 +311,14 @@
             }
         },
         {
+            "Key": "831c2a72-f8d2-4c48-9875-f5549bef03f2",
+            "Value": {
+                "id": "78384df5-20ea-48bc-bc5b-19728c8adb85",
+                "resourcePath": "sprites\\sprTowerVenomProjectile\\sprTowerVenomProjectile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "91ebc0a7-47e2-4a6b-993c-c85628e4a78c",
             "Value": {
                 "id": "a48e523e-fd0c-401d-94d2-bf6facc38ec5",
@@ -290,7 +330,7 @@
             "Key": "91f4a876-7042-4ced-bb97-caad1e9c128c",
             "Value": {
                 "id": "24980a05-fa03-4e0a-9ba3-220502e29b3a",
-                "resourcePath": "sprites\\sprTowerBasic\\sprTowerBasic.yy",
+                "resourcePath": "sprites\\sprTowerFlare\\sprTowerFlare.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -343,6 +383,14 @@
             }
         },
         {
+            "Key": "b3459885-2ec1-41d7-815f-9a7dbb1f1a95",
+            "Value": {
+                "id": "f8198c3e-3dae-4c24-afc0-24ea3660d211",
+                "resourcePath": "objects\\objTowerDragGlacier\\objTowerDragGlacier.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b3cfbd23-5509-4fa2-8dfc-0bf7509bd1d6",
             "Value": {
                 "id": "e4660cb7-c3f3-4e64-85e3-202a4a40e8bd",
@@ -354,7 +402,7 @@
             "Key": "b69c82d2-bf7a-4659-b1a4-4379628fd7cb",
             "Value": {
                 "id": "a7f88aca-0468-4b4e-b266-8bf6334a4e6a",
-                "resourcePath": "sprites\\sprTowerSnipe\\sprTowerSnipe.yy",
+                "resourcePath": "sprites\\sprTowerGlacier\\sprTowerGlacier.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -407,6 +455,14 @@
             }
         },
         {
+            "Key": "c991d6ea-c281-48e1-8e02-4815cee965de",
+            "Value": {
+                "id": "75ca3080-1d00-4e72-851f-a85c8b9d014d",
+                "resourcePath": "objects\\objTowerGlacierProjectile\\objTowerGlacierProjectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ca91daa7-7d3a-456c-944e-778a2156e8c2",
             "Value": {
                 "id": "4d9a7f4b-be3c-4ce8-ad53-777129720202",
@@ -423,10 +479,26 @@
             }
         },
         {
+            "Key": "ce7ef0e9-7f91-4364-a96f-7ae6c2a8ee3b",
+            "Value": {
+                "id": "6fefda6d-9504-468e-8268-6bb054053fa4",
+                "resourcePath": "objects\\objTowerVenom\\objTowerVenom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d57184cd-36c5-48e4-bf98-567eebd73072",
+            "Value": {
+                "id": "1a033b44-cccd-4c6a-9640-91be1f13d36b",
+                "resourcePath": "objects\\objTowerDragVenom\\objTowerDragVenom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d83f99a0-0575-4593-b187-8bc6db4899f5",
             "Value": {
                 "id": "f82f3d44-fe45-4ec8-a887-d1b84fb28069",
-                "resourcePath": "sprites\\sprTowerBasicProjectile\\sprTowerBasicProjectile.yy",
+                "resourcePath": "sprites\\sprTowerFlareProjectile\\sprTowerFlareProjectile.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -452,6 +524,14 @@
                 "id": "83342c10-9eb4-4f28-bd55-6b4e263ae7bc",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4a54796-730c-4ba4-bc3c-b9a5ecc9fec1",
+            "Value": {
+                "id": "a5a02a8d-9d37-4ace-86dc-745265c83a6d",
+                "resourcePath": "objects\\objTowerClickVenom\\objTowerClickVenom.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -13,4 +13,6 @@
 global.debugMode = false;
 
 global.waitingNextWave = false;
-global.waitingNextWaveTime = 10;
+global.waitingNextWaveTime = 5;
+
+global.clickedTower = false;
