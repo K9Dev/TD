@@ -1,6 +1,6 @@
 
-if(poisoned){
-	HP -= poisonDmg;
-	
-	log("Poison Tick happenend..");
-}
+poisoned = false;
+
+poisonStack = 0;
+
+log("Enemy not poisoned anymore");

@@ -24,5 +24,6 @@ for (var i = 0; i < global.enemyTypes; i++){
     global.enemyData[# i, GRID_HP] = listEntry[? "HP"];
     global.enemyData[# i, GRID_SPRITE] = listEntry[? "SPRITE"];
 	global.enemyData[# i, GRID_COINS] = listEntry[? "COINS"];
+	global.enemyData[# i, GRID_LIFECOST] = listEntry[? "LIFECOST"];
 	
 }

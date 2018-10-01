@@ -1,5 +1,5 @@
 /// @description Spawner
-spawnAmount = 3;
+spawnAmount = 2;
 spawnCount = 0;
 
 // Spawn 1 enemy all second

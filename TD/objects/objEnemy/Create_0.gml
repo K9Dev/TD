@@ -10,5 +10,6 @@ DEF = -1;
 SPD = -1;
 HP = 0;
 COINS = 0;
+LIFECOST = 0;
 
 origSpeed = 0;

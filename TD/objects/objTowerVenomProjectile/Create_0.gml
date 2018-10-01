@@ -1,5 +1,5 @@
 
 dmg = 15;
-poisonDmg = 7;
+poisonDmg = 9;
 poisonDuration = room_speed * 5;
-poisonTick = 5 / room_speed;
+poisonTick = room_speed;

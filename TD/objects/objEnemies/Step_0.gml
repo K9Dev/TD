@@ -1,22 +1,35 @@
-//log("Path pos: " + string(path_position));
+
 if(!global.endOfGame){
-	if(path_position == 1){
-		// End of path
 	
+	// End of path
+	if(path_position == 1){
+			
 		log("Enemy reached end of path, destroy lifes and object");
 	
-		global.lifes -= 20;
+		global.lifes -= LIFECOST;
 	
 		instance_destroy();
 	
 	}
 	
-	if(poisoned && alarm[1] < 0){
+	// Poison Effect
+	if(poisoned){
+		poisonTick --;
 		
-		log("Enemy is poisoned, apply ticks");
-		alarm[1] = poisonTick;
+		if(poisonTick <= 0){
+			
+			poisonDmg = poisonDmgReset * poisonStack;
+		
+			log("Enemy is poisoned, apply dmg...");
+			HP -= poisonDmg;
+			scrCreateDmg(string(poisonDmg), c_black, c_lime);
+			
+			poisonTick = poisonTickReset;
+		}
 	}
 	
 }else{
+	
+	// Stop after game end
 	path_speed = 0;
 }

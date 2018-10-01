@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "objTowerParent",
     "eventList": [
-        
+        {
+            "id": "9dcee3d7-3990-4a59-b0a8-d3b94808088c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "feae2edd-c4c2-4644-9800-855a1b6822a7"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -23,6 +23,8 @@ if(path_speed >= 0.5){
 
 HP -= other.dmg;
 
+scrCreateDmg(string(other.dmg), c_black, c_aqua);
+
 with(other){
 	instance_destroy();
 }

@@ -7,6 +7,8 @@ if(scrMouseOver(x, y, sprite_width, sprite_height)){
 }
 
 
+//var enemy = instance_nearest(path_get_x(path0, 1), path_get_y(path0, 1), objEnemies);
+
 var enemy = instance_nearest(x, y, objEnemies);
 
 if(enemy != noone){

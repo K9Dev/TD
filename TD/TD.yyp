@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "046e8576-7f41-4c72-8ecc-3043e982ea28",
+            "Value": {
+                "id": "19ccbf2a-be9f-4eb6-bc6d-d1a0b1891228",
+                "resourcePath": "scripts\\scrDrawTowers\\scrDrawTowers.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "09ee5493-6cb8-4397-8da3-4fb9f2842e19",
+            "Value": {
+                "id": "8bf912b2-12ff-47a9-bf5e-3bf9062363b6",
+                "resourcePath": "scripts\\scrCreateDmg\\scrCreateDmg.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0bd1a4b6-f822-42bb-9359-139d25b57828",
             "Value": {
                 "id": "523b0f56-23e7-4eb5-bdb8-e1edb1a05a66",
@@ -291,6 +307,14 @@
             "Value": {
                 "id": "bbf97a3e-215e-4fe4-98e5-e5c96124a283",
                 "resourcePath": "objects\\objTowerDragBasic\\objTowerDragBasic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "78bc55ee-e5b2-4cc5-b174-ad9735eff5d9",
+            "Value": {
+                "id": "16cc9333-c919-4e3a-996e-f73dd8bb4f53",
+                "resourcePath": "objects\\objDamageIndicator\\objDamageIndicator.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -591,7 +615,9 @@
         "42c7cc7e-190f-4dd9-a346-72af753dfa36",
         "b800e368-4a82-4619-990d-db85a288b6fd",
         "f278a048-37ee-4a29-ae0a-aad5782f3727",
-        "ca91daa7-7d3a-456c-944e-778a2156e8c2"
+        "ca91daa7-7d3a-456c-944e-778a2156e8c2",
+        "046e8576-7f41-4c72-8ecc-3043e982ea28",
+        "09ee5493-6cb8-4397-8da3-4fb9f2842e19"
     ],
     "tutorial": ""
 }
