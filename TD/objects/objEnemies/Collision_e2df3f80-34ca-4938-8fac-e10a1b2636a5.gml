@@ -1,6 +1,6 @@
 /// @description
 
-HP -= 20;
+HP -= other.dmg;
 
 with(other){
 	instance_destroy();

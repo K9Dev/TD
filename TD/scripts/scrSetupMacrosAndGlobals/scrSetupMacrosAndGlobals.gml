@@ -15,4 +15,10 @@ global.debugMode = false;
 global.waitingNextWave = false;
 global.waitingNextWaveTime = 5;
 
+global.endOfGame = false;
+
 global.clickedTower = false;
+
+global.coins = 200;
+global.lifes = 20;
+global.level = 1;

@@ -8,4 +8,6 @@ if(global.waitingNextWave){
 	draw_text(x-170, 50, "Next wave in: " + string(alarm[0]/room_speed) +" seconds");
 }
 
+draw_text(x-170, 70, "Lifes: " + string(global.lifes));
+
 draw_set_color(c_white);
