@@ -10,7 +10,7 @@ var jsonList = ds_map_find_value(jsonMap, "default");
 global.enemyTypes = ds_list_size(jsonList);
 
 // Enemy Data Array
-global.enemyData = ds_grid_create(global.enemyTypes, 8);
+global.enemyData = ds_grid_create(global.enemyTypes, 9);
 
 for (var i = 0; i < global.enemyTypes; i++){
 	

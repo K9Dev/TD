@@ -4,7 +4,7 @@ if(!global.endOfGame){
 	// End of path
 	if(path_position == 1){
 			
-		log("Enemy reached end of path, destroy lifes and object");
+		log("Enemy reached end of path, destroy lifes and object (Cost = " + string(LIFECOST) +")");
 	
 		global.lifes -= LIFECOST;
 	

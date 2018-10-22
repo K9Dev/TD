@@ -13,3 +13,5 @@ COINS = 0;
 LIFECOST = 0;
 
 origSpeed = 0;
+
+MAXHP = HP;

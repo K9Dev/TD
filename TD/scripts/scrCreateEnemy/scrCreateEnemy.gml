@@ -8,7 +8,10 @@ var enemyId = argument0;
 var enemyX = argument1;
 var enemyY = argument2;
 
+
 for(var i = 0; i < global.enemyTypes; i++){
+	
+	log("EnemyData Grid ID = " + string(global.enemyData[# i, GRID_ID]));
 	if(global.enemyData[# i, GRID_ID] == enemyId){
 		var enemy = instance_create_depth(enemyX, enemyY, -1, objEnemy);
 		
@@ -20,7 +23,11 @@ for(var i = 0; i < global.enemyTypes; i++){
 			
 			log("Enemy (ID: " + string(enemyId) + ") spawnd!");
 		}
+		
+		
 	}
 }
 
 return enemy;
+
+

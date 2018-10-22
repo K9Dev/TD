@@ -21,6 +21,9 @@ for(var i = 0; i < global.enemyTypes; i++){
 		HP = global.enemyData[# i, GRID_HP];
 		COINS = global.enemyData[# i, GRID_COINS];
 		SPRITE = global.enemyData[# i, GRID_SPRITE];
+		LIFECOST = global.enemyData[# i, GRID_LIFECOST];
+		
+		MAXHP = HP;
 		
 		if(global.debugMode){
 			log("====================================");
@@ -33,6 +36,7 @@ for(var i = 0; i < global.enemyTypes; i++){
 			log("HP: " + string(HP));
 			log("COINS: " + string(COINS));
 			log("SPRITE: " + SPRITE);
+			log("LIFECOST: " + string(LIFECOST));
 			log("====================================");
 		}
 		

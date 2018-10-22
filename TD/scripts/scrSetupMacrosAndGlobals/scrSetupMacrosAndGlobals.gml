@@ -10,7 +10,9 @@
 #macro GRID_COINS 7
 #macro GRID_LIFECOST 8
 
-
+// Levels Config Macros
+#macro GRID_LVL 0
+#macro GRID_ROUNDSTRING 1
 
 // Global Vars
 global.debugMode = false;
@@ -29,3 +31,6 @@ global.lifes = 20;
 global.level = 1;
 
 global.poisonStacksMax = 2;
+
+global.levelrounds = 0;
+global.levelEnemies = [];

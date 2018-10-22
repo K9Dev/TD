@@ -1,3 +1,5 @@
 /// @description
 
-global.coins += COINS;
+if(killed){
+	global.coins += COINS;
+}

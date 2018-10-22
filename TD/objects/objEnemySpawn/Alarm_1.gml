@@ -20,10 +20,12 @@ if(!global.endOfGame){
 			global.level++;
 			global.waitingNextWave = false;
 	
-			spawnRate -= 2.5;
+			tempRound++;
 	
-			scrIncreaseEnemyStats(2.5, 0.1, 25, 10, 1);
-			scrIncreaseEnemyStats(2.5, 0.2, 40, 20, 2);
+			//spawnRate -= 2.5;
+	
+			scrIncreaseEnemyStats(2.5, 0.1, 15, 10, 1);
+			scrIncreaseEnemyStats(2.5, 0.2, 30, 20, 2);
 	
 			alarm[0] = spawnRate;
 		
