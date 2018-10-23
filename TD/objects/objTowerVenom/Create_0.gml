@@ -1,6 +1,6 @@
 /// @description
 
-range = 60;
+range = 80;
 fireRate = room_speed;
 firing = false;
 objToShot = noone;

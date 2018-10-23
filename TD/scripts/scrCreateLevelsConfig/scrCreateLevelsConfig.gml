@@ -19,4 +19,6 @@ for (var i = 0; i < global.levels; i++){
     global.levelsdata[# i, GRID_LVL] = listEntry[? "LVL"];
     global.levelsdata[# i, GRID_ROUNDSTRING] = listEntry[? "ROUNDSTRING"];
 	
+	global.roundString = listEntry[? "ROUNDSTRING"];
+	
 }

@@ -17,8 +17,10 @@
 // Global Vars
 global.debugMode = false;
 
+global.cheating = false;
+
 global.waitingNextWave = false;
-global.waitingNextWaveTime = 5;
+global.waitingNextWaveTime = 10;
 
 global.endOfGame = false;
 
@@ -27,10 +29,9 @@ global.clickedTower = false;
 global.projectileSpeed = 10;
 
 global.coins = 250;
-global.lifes = 20;
+global.lifes = 10;
 global.level = 1;
 
 global.poisonStacksMax = 2;
 
-global.levelrounds = 0;
-global.levelEnemies = [];
+global.enemiesPerRound = [];

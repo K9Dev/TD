@@ -1,4 +1,10 @@
 /// @description 
+if((global.level + 1 > global.numberOfRounds) && (instance_number(objEnemy) <= 0)){
+	global.endOfGame = true;
+	
+	global.gameWon = true;
+}
+
 if(!global.endOfGame){
 	if(instance_number(objEnemy) <= 0){
 	
@@ -15,17 +21,17 @@ if(!global.endOfGame){
 		
 			log("Spawning true, spawn!");
 			spawnCount = 0;
-			spawnAmount++;
+			
+			roundCount++;
 	
+
 			global.level++;
 			global.waitingNextWave = false;
+			
+			spawnRate -= 3;
 	
-			tempRound++;
-	
-			//spawnRate -= 2.5;
-	
-			scrIncreaseEnemyStats(2.5, 0.1, 15, 10, 1);
-			scrIncreaseEnemyStats(2.5, 0.2, 30, 20, 2);
+			scrIncreaseEnemyStats(2.5, 0.1, 25, 0, 1);
+			scrIncreaseEnemyStats(2.5, 0.2, 40, 0, 2);
 	
 			alarm[0] = spawnRate;
 		

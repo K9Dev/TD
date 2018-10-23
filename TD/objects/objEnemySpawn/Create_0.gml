@@ -4,10 +4,10 @@ spawnCount = 0;
 
 //spawnRounds = global.levels;
 
-tempRound = 0;
+roundCount = 0;
 
 // Spawn 1 enemy all second
-spawnRate = 1 * room_speed;
+spawnRate = 0.8 * room_speed;
 
 spawning = false;
 
